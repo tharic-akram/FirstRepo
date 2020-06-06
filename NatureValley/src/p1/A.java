@@ -2,7 +2,7 @@ package p1;
 
 public class A {
 	
-	final void isplay() {
+	void isplay() {
 		System.out.println("in A");
 	}
 
